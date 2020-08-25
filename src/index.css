@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; */
+  cursor: context-menu;
+  background: url("img/wall.jpg");
+  background-attachment: fixed;
+  background-position: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.hover-grey:hover{
+  background: #eeeeee;
+}
+
+.mp{
+  margin: 0;
+  padding: 0;
+}
+
+.mp-0{
+  margin: 0;
+  padding: 0.5rem 1rem;
+  box-sizing: border-box;
+}
+
+.mb-1{
+  margin-bottom: 0.5rem; 
+}
+
+.bs-0{
+  border-left-color: #dd2c00;
+}
+
+.line-justify{
+  padding:  0 2rem;
+}
+
+.line-end{
+  text-align: right;
+}
+
+.activity-summary .card-content{
+  padding:0; 
+}
+
+.form{
+  margin: 2rem 4rem;
+  padding: 2rem 0 5rem 0;
+  box-sizing: border-box;
+  border-radius: 0.1rem;
+}
+
+
+input[type=submit]{
+  padding: 0 2.5rem;
+  outline: none;
+  color: #f1f2f6;
+}
+
+
+input[type=text],
+input[type=email],
+input[type=password],
+textarea{
+  letter-spacing: 0.02rem;
+}
+
+input[type=text]:not(.browser-default):focus:not([readonly]),
+input[type=email]:not(.browser-default):focus:not([readonly]), 
+input[type=password]:not(.browser-default):focus:not([readonly]),
+textarea.materialize-textarea:focus:not([readonly]){
+  border-bottom: 1px solid #ff3d00;
+  -webkit-box-shadow: 0 1px 0 0 #ff3d00;
+  box-shadow: 0 1px 0 0 #ff3d00;
+}
+
+.btn-large{
+  background: #ff3d00;
+  padding: 0;
+}
+
+.btn-large:hover{
+  background: #dd2c00;
+}
+
