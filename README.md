@@ -15,6 +15,7 @@ It has a login system and allow logged in user to read and write Event posts.
 #### `language | framwork | library | database | API | technique`
 - React (JavaScript)
 - Node.js (JavaScript)
+- Redux
 - Html, CSS
 - Materialize CSS
 - FireStore (NoSQL) 
