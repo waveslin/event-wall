@@ -7,7 +7,7 @@ Enter ***[Event-wall](https://events-wall.firebaseapp.com/)*** to view the websi
 This website is hosted on Firebase.
 
 #### `Description`
-This project called WavesoapEvent-wall. </br>
+This project called Event-wall. </br>
 It is a simple website which is similar to twitter. </br> 
 It has a login system and allow logged in user to read and write Event posts. 
 
