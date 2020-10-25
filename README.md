@@ -1,4 +1,4 @@
-## `Event-wall`
+## Event-wall
 
 ### `Author: Juanru Lin`
 
